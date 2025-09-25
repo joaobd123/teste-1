@@ -1,4 +1,4 @@
- terra
+terra
 marte
-saturno
 netuno
+mercúrio
